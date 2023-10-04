@@ -1,0 +1,46 @@
+    header{
+        border-top: solid green;
+        text-align:center;
+        background: green;
+        font-family: sans-serif;
+        font-size: 1.5em;
+    }
+    nav {
+        border-top: 4px solid green;
+        border-bottom: 2px solid green;
+        background-color:red;
+        color: purple;    
+    }
+    figure {
+        text-align:center;
+               
+    }
+    body {
+        border-left:10px solid green;
+        border-top:3px solid green;
+        border-right:5px solid red;
+        border-bottom: 3px solid red;             
+        background: rgb(251, 251, 252);
+        font-family: sans-serif;
+        font-size: 120%;
+       
+    }
+    article {
+         padding-left: 30px;        
+    }
+    aside {
+        background:rgba(216, 255, 222, 0.694);
+        border:solid black;
+        padding-left: 5px; 
+        padding-right: 50px;
+        margin-right:90px;
+        font-style: oblique 1.3em;
+    }
+    footer {
+        margin-top:30px;
+        border-top: 3px solid green;
+        text-align:center;
+        background: rgb(113, 117, 115);
+        font-family:Courierf;
+        font-size: 1.3em;
+    }
